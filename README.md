@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)-->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/cd/19/2c/cd192cdbaae2b126d66f1e5b257cc471.gif" alt="Banner Image" width="200%" />
+  <img src="https://media.licdn.com/dms/image/D4D16AQEk-8SxCq4M1A/profile-displaybackgroundimage-shrink_350_1400/0/1720701626096?e=1729123200&v=beta&t=f5OS8UcR54Zc_ck-M7ah2cL61G5OwHBEEr3II5Sqva0" alt="Banner Image" width="200%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aaditya Jauhari</h1>
