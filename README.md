@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aadityajauhari01@gmail.com**
 
-- ⚡ Fun fact: JavaScript, along with HTML5 and CSS3, can be used to create games. Libraries and frameworks like Phaser, Three.js, and Babylon.js enable developers to build both 2D and 3D games that run directly in the browser, making game development more accessible.
+- ⚡ Fun fact: Python has a hidden Easter egg! Type import this in the interpreter to reveal "The Zen of Python." 🧘‍♂️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
