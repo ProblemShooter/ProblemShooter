@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-jauhari/)
 [![X](https://img.shields.io/badge/X-Follow-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jauhari_Aaditya)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityajauhari01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-%23000000?style=for-the-badge&logo=firefox&logoColor=white)](https://aaditya-jauhari.netlify.app/)
 
 <br/>
 
